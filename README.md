@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-### KP Strategic Studio // Executive Decision & Telemetry Architectures
+### KP Strategic Transformation Studio // Executive Decision & Telemetry Architectures
 
 ![Executive Strategy](https://img.shields.io/badge/KP_STRATEGIC_STUDIO-0A192F?style=for-the-badge&logoColor=D4AF37)
 ![Telemetry & Finance](https://img.shields.io/badge/MACRO_%26_FINANCE_TELEMETRY-112240?style=for-the-badge&textColor=64FFDA)
@@ -17,7 +17,7 @@ Rather than building isolated software utilities, I engineer **self-contained, C
 
 ### ⚡ Interactive Systems, Simulators & Decision Engines
 
-#### 1. 🌐 KP Strategic Transformation Studio for Tourism Investors and Hospitality Private Equity & Investment Firms
+#### 1. 🌐 KP Strategic Transformation Studio 
 Interactive executive suite for biometric architectures, GenAI operational models, and luxury tourism governance frameworks with showcasing of SMART TRAVEL HUB a Cloud-connected AI transition ecosystem designed as an auxiliary high-touch service to streamline sanctuaries, arrival logistics and biometric guest flows alongside traditional luxury operations
 * [![Launch Live Portal](https://img.shields.io/badge/LAUNCH_LIVE_PORTAL-0A192F?style=flat-square&logo=github&logoColor=white)](https://kalliopi-papadopoulou.github.io/kalliopi-papadopoulou-strategic-studio/) [![View Repo](https://img.shields.io/badge/VIEW_REPOSITORY-334155?style=flat-square)](https://github.com/kalliopi-papadopoulou/kalliopi-papadopoulou-strategic-studio)
 
