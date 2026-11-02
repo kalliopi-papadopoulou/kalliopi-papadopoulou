@@ -10,7 +10,7 @@
 
 > *"Where frontline operational reality meets algorithmic discipline."*
 
-I am an **Innovation Strategist & Systems Architect** bridging 25+ years of luxury hospitality and international operational leadership with quantitative data analytics, macroeconomic telemetry, and AI governance frameworks. 
+I am an **Innovation Strategist & Systems Architect** bridging 13+ years of luxury hospitality and international operational leadership with quantitative data analytics, macroeconomic telemetry, and AI governance frameworks. 
 
 Rather than building isolated software utilities, I engineer **self-contained, C-suite-ready calculating engines, operational simulators, and decision frameworks** designed to compress the cycle between raw telemetry and strategic execution.
 
