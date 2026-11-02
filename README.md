@@ -28,7 +28,7 @@ Interactive operational simulation engine translating high-demand luxury front-o
 
 #### 3. 📊 The C-Suite Pocket Notepad // Finance & Telemetry
 Executive calculating system and HUD notepad translating 36 economic and hospitality frameworks (CAPEX, OPEX, RevPAR, CLV) into real-time decision dashboards.
-* [![Launch Engine](https://img.shields.io/badge/LAUNCH_LIVE_ENGINE-0A192F?style=flat-square&logo=github&logoColor=white)](https://kalliopi-papadopoulou.github.io/Pocket_C-Suite_Notepad/) [![View Repo](https://img.shields.io/badge/VIEW_REPOSITORY-334155?style=flat-square)](https://github.com/kalliopi-papadopoulou/Pocket_C-Suite_Notepad)
+* [![Launch Engine](https://img.shields.io/badge/LAUNCH_LIVE_ENGINE-0A192F?style=flat-square&logo=github&logoColor=white)](https://kalliopi-papadopoulou.github.io/Pocket_C-Suite_Notepad/) [![View Repo](https://img.shields.io/badge/VIEW_REPOSITORY-334155?style=flat-square)](https://kalliopi-papadopoulou.github.io/c-suite-pocket-notepad/).
 
 #### 4. 📈 Pocket C-Suite Poliecon Notepad
 Policy simulation and macroeconomic calculating engine synthesizing dynamic curves, economic laws, and quantitative FX telemetry for strategic analysts.
